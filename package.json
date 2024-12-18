@@ -1,0 +1,19 @@
+{
+  "name": "lambda-api-mysql",
+  "version": "1.0.0",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/stacktape/stacktape/issues"
+  },
+  "author": "Stacktape team <info@stacktape.com> (https://stacktape.com)",
+  "scripts": {},
+  "dependencies": {
+    "@prisma/client": "^5.12.1"
+  },
+  "devDependencies": {
+    "@stacktape/sdk": "^2.5.0",
+    "@types/node": "^18.14.31",
+    "prisma": "^5.12.1",
+    "typescript": "^4.8.4"
+  }
+}
